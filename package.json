@@ -1,5 +1,5 @@
 {
-  "name": "FizzBuzz",
+  "name": "fizz-buzz",
   "version": "1.0.0",
   "description": "FizzBuzz TDD",
   "main": "index.js",
